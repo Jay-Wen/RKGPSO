@@ -1,0 +1,5 @@
+*.Grid filter=lfs diff=lfs merge=lfs -text
+*.Ctrl filter=lfs diff=lfs merge=lfs -text
+*.ASC filter=lfs diff=lfs merge=lfs -text
+*.xyz filter=lfs diff=lfs merge=lfs -text
+*.tri filter=lfs diff=lfs merge=lfs -text
